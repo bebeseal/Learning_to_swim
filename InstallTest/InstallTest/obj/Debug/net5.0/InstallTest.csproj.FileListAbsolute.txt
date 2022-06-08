@@ -1,0 +1,15 @@
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/InstallTest.deps.json
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/InstallTest.runtimeconfig.json
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/InstallTest.runtimeconfig.dev.json
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/InstallTest.dll
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/ref/InstallTest.dll
+/Users/joshua/Projects/InstallTest/InstallTest/bin/Debug/net5.0/InstallTest.pdb
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.csproj.AssemblyReference.cache
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.AssemblyInfoInputs.cache
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.AssemblyInfo.cs
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.csproj.CoreCompileInputs.cache
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.dll
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/ref/InstallTest.dll
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.pdb
+/Users/joshua/Projects/InstallTest/InstallTest/obj/Debug/net5.0/InstallTest.genruntimeconfig.cache

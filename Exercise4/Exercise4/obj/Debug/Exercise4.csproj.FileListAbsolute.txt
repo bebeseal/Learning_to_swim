@@ -1,0 +1,6 @@
+/Users/joshua/Projects/Exercise4/Exercise4/bin/Debug/Exercise4.exe
+/Users/joshua/Projects/Exercise4/Exercise4/bin/Debug/Exercise4.pdb
+/Users/joshua/Projects/Exercise4/Exercise4/obj/Debug/Exercise4.csproj.AssemblyReference.cache
+/Users/joshua/Projects/Exercise4/Exercise4/obj/Debug/Exercise4.csproj.CoreCompileInputs.cache
+/Users/joshua/Projects/Exercise4/Exercise4/obj/Debug/Exercise4.exe
+/Users/joshua/Projects/Exercise4/Exercise4/obj/Debug/Exercise4.pdb
